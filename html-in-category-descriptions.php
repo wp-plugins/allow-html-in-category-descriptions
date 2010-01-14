@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: HTML in Category Descriptions
-Version: 1.0
+Version: 1.1
 Plugin URI: 
 Description: Allows you to add HTML code in category descriptions
 Author: Arno Esterhuizen
@@ -13,4 +13,7 @@ foreach ( $filters as $filter ) {
 	remove_filter($filter, 'wp_filter_kses');
 }
 
+foreach ( array( 'term_description' ) as $filter ) {
+	remove_filter( $filter, 'wp_kses_data' );
+}
 ?>
