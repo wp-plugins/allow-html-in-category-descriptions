@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: HTML in Category Descriptions
-Version: 1.1
+Version: 1.2
 Plugin URI: http://wordpress.org/extend/plugins/allow-html-in-category-descriptions/developers/
 Description: Allows you to add HTML code in category descriptions
 Author: Arno Esterhuizen
