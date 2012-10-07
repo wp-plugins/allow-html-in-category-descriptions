@@ -1,12 +1,12 @@
 === Allow HTML in Category Descriptions ===
-Contributors: arno_esterhuizen
-Donate link: Sorry, none available at the moment. If you feel strongly about it, email me and we can work something out
+Contributors: arno_esterhuizen; arno.esterhuizen
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SGS5KSM9N4D3Y
 Tags: categories, category descriptions, html, filter
 Requires at least: 2.5
-Tested up to: 2.9.1
+Tested up to: 3.5
 Stable tag: trunk
 
-This plugin allows you to use unfiltered HTML in your category descriptions by disabling WP filters
+This plugin allows you to use unfiltered HTML in your category descriptions by disabling selected wordpress filters
 
 == Description ==
 
@@ -32,3 +32,4 @@ and formatting. Then switch to the 'code' tab and copy the HTML code into the ca
 
 1. **Email Address:** arno.esterhuizen+wordpress-plugins@gmail.com
 1. **Subject Line:** Question: WordPress Plugin: Allow HTML in Category Descriptions
+1. **Donations:** https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SGS5KSM9N4D3Y
