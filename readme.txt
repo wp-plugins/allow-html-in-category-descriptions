@@ -56,13 +56,10 @@ and formatting. Switch to the 'code' tab and copy the HTML code into the categor
 == Upgrade Notice ==
 
 = 1.2.1 =
-Upgrade not necessary; minor changes made to the formatting.
+Upgraded plugin for the latest versions of WordPress.
 
 = 1.2 =
-Upgrade not necessary; minor changes made to the formatting.
+Upgraded plugin for the latest versions of WordPress.
 
 = 1.1 =
 Added code to prevent HTML from being stripped in textareas in the admin display.
-
-= 1.0 =
-First release.
