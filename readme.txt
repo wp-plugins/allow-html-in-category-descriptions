@@ -1,5 +1,5 @@
 === Allow HTML in Category Descriptions ===
-Contributors: arno.esterhuizen, arno_esterhuizen
+Contributors: arno.esterhuizen
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SGS5KSM9N4D3Y
 Tags: categories, category descriptions, html, filter
 Requires at least: 2.5
