@@ -36,6 +36,13 @@ and formatting. Switch to the 'code' tab and copy the HTML code into the categor
 1. **Subject Line:** Question: WordPress Plugin: Allow HTML in Category Descriptions
 1. **Donations:** https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SGS5KSM9N4D3Y
 
+== Screenshots ==
+
+1. Adding HTML code to the category description
+1. A preview of the category description in the category list admin screen
+1. What the category looks like on the front-end if your theme supports it
+(here shown with the Twenty Fourteen theme)
+
 == Changelog ==
 
 = 1.2.1 =
